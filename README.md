@@ -9,5 +9,5 @@ Sou desenvolvedor iniciante e este é meu portfólio.
 - [Projeto 2](link-do-repositorio)
 
 ## Contato
-- [LinkedIn](link)
+- [LinkedIn](https://www.linkedin.com/in/everton-bastiao/)
 - [E-mail](mailto:email@exemplo.com)
