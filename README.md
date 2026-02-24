@@ -6,7 +6,6 @@ Sou desenvolvedor iniciante e este é meu portfólio.
 
 ## Projetos
 - [Projeto 1](link-do-repositorio)
-- [Projeto 2](link-do-repositorio)
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/everton-bastiao/)
