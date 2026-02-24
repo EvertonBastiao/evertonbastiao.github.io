@@ -16,7 +16,7 @@
 ## 🛠️ Tecnologias e ferramentas
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-projetowecare-blue?logo=github)](https://github.com/EvertonBastiao/projetowecare)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
