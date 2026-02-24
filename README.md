@@ -10,4 +10,4 @@ Sou desenvolvedor iniciante e este é meu portfólio.
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/everton-bastiao/)
-- [E-mail](mailto:email@exemplo.com)
+- [E-mail](mailto:contato.evertonend@gmail.com)
