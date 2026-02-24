@@ -24,7 +24,7 @@
 
 ## 📂 Projetos
 
-### [🔗 Projeto 1: Nome do Projeto](link-do-repositorio)
+### [🔗 Projeto 1: We Care](link-do-repositorio)
 Uma breve descrição do que esse projeto faz, quais tecnologias foram usadas e qual problema ele resolve.  
 🛠️ *Tecnologias: HTML e CSS  
 ![GitHub stars](https://img.shields.io/github/stars/evertonbastiao/nome-do-repo?style=social)
