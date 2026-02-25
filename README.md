@@ -24,7 +24,7 @@
 
 ## 📂 Projetos
 
-### [🔗 Projeto 1: We Care](link-do-repositorio)  
+### [🔗 Projeto 1: We Care](http://wecarepet.com.br/)  
 🛠️ *Tecnologias: HTML e CSS  
 ![GitHub stars](https://img.shields.io/github/stars/evertonbastiao/nome-do-repo?style=social)
 
